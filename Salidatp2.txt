@@ -1,0 +1,12 @@
+El numero 3 es menor que el numero 2.3
+
+Las siguientes condiciones tienen como comparacion un condicion verdadera y una falsa
+Una o las dos condiciones resultan ser verdaderas
+Una de las dos condiciones no es verdadera
+
+La letra c es distinta de la letra d
+
+Sumar hola y chau tiene como resultado holachau
+----------------------------------------------------------
+Process exited after 0.6843 seconds with return value 0
+Presione una tecla para continuar...
